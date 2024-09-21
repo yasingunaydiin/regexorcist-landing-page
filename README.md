@@ -1,4 +1,4 @@
-![RegExorcist_mac](https://github.com/user-attachments/assets/649b6133-d5dc-4250-b613-bdc38faf0c46)
+<img width="128px" src="public/RegExorcist_mac.png" alt="Logo" align="left" />
 
 # Regexorcist Landing Page
 
